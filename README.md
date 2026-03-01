@@ -22,3 +22,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/JayasreeM-2005/Vehicle-Management-System.git
 cd Vehicle-Management-System
+pip install -r requirements.txt
